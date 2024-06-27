@@ -1,0 +1,20 @@
+[env]
+TERM = "xterm-256color"
+
+[window]
+padding.x = 10
+padding.y = 10
+dimensions = {columns = 50, lines = 15}
+position = {x = 100, y = 100}
+
+decorations = "Buttonless"
+
+opacity = 0.7
+blur = true
+
+option_as_alt = "Both"
+
+[font]
+normal.family = "FiraCode Nerd Font"
+
+size = 14
